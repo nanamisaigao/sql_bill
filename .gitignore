@@ -5,3 +5,5 @@ __pycache__/
 *.db
 *.csv
 !data/budget.csv
+*.sql
+!queries.sql
